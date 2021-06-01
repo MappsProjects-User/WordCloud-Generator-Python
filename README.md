@@ -3,8 +3,7 @@
 WordCloud-Generator-Python
 
 # Image
-![](https://github.com/MappsProjects-User/materials/blob/main/wordcloud.png)
-
+<img src="https://github.com/MappsProjects-User/materials/blob/main/wordcloud.png" width="320px">
 
 # Overview
 
