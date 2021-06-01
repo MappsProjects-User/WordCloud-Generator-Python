@@ -19,8 +19,12 @@ WordCloud-Generator-Python
 
 # Requirement
 
-- janome==0.4.1
-- markovify==0.8.0
+- pandas==1.1.3  
+- numpy==1.19.2
+- matplotlib==3.3.1 
+- wordcloud==1.8.1   
+- sudachipy==0.5.1
+- sudachidict-core==20201223.post1 
 
 # Getting Started
 
