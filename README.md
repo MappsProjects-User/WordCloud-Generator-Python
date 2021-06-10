@@ -7,10 +7,10 @@ WordCloud-Generator-Python
 
 # Overview
 
-- [「タイトル」](https://www.youtube.com/watch?v=I_2WlQDPQOA)で使用するJupyter Notebookやサンプルデータ一式をまとめています
+- [「【Python ワードクラウド】実装する方法を10分でシンプルに解説！【コードとサンプルデータもDLできます！】」](https://www.youtube.com/watch?v=jKTYGgCbcGA)で使用するJupyter Notebookやサンプルデータ一式をまとめています
 - 使用言語はPythonです
-- 大学、企業など組織でのご利用にあたっては、「株式会社マーケティングアプリケーションズ（MApps）」の「Markov-Chain-Text-Generator」を利用していることを明示し、MITライセンスで許可がされている内容であれば自由に利用して頂いて構いません
-- Markov-Chain-Text-Generatorの利用により生じるいかなる問題について、一切の責任を負いかねますのであらかじめご了承ください
+- 大学、企業など組織でのご利用にあたっては、「株式会社マーケティングアプリケーションズ（MApps）」の「WordCloud-Generator-Python」を利用していることを明示し、MITライセンスで許可がされている内容であれば自由に利用して頂いて構いません
+- WordCloud-Generator-Pythonの利用により生じるいかなる問題について、一切の責任を負いかねますのであらかじめご了承ください
 
 # Description
 
@@ -53,8 +53,8 @@ git clone https://github.com/MappsProjects-User/WordCloud-Generator-Python.git
 
 スクリプトの内容を解説しているサイトです
 
-- 動画：[「タイトル」](https://www.youtube.com/watch?v=I_2WlQDPQOA)
-- Qiita：[「タイトル」](https://qiita.com/mapps/items/c0d3f1b73bc9ef398790)
+- 動画：[【Python ワードクラウド】実装する方法を10分でシンプルに解説！【コードとサンプルデータもDLできます！】](https://www.youtube.com/watch?v=jKTYGgCbcGA)
+- Qiita：[【プログラムの解説動画📺あり】Pythonでワードクラウド作成！〜SudachiPyを使った実装方法紹介〜](https://qiita.com/mapps/items/b6876b4c6979d49b8a83)
 
 # Author
 
